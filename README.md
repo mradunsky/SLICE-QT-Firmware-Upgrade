@@ -6,6 +6,8 @@ Repository for the latest released firmware for the SLICE-QT
   
   https://github.com/Vescent/SLICE-PC-GUI/blob/master/SLICE-GUI-Windows-1-17.zip
 ## Instructions
+  __NOTE: Upgrading from Version S1.24_QTC1.38 will erase all device settings an parameters. Record them externally prior to updating firmware!__
+  
   Left click on SLICE_firmware_update.docx and then click 'Download' to download the instructions for use.
 
   Left click on the upgrade package (SC-x-xx-QT-x-xx.zip) and then click 'Download' to download the firmware package to your hard drive.
