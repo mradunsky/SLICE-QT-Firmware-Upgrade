@@ -1,4 +1,4 @@
-# SLICE-QT-Firmware-Upgrade
+# SLICE-QTC-Firmware-Upgrade
 Repository for the latest released firmware for the SLICE-QTC
 
 ## Requires 
