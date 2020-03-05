@@ -1,5 +1,5 @@
 # SLICE-QT-Firmware-Upgrade
-Repository for the latest released firmware for the SLICE-QT
+Repository for the latest released firmware for the SLICE-QTC
 
 ## Requires 
   Vescent SLICE-PC-GUI application available at:
