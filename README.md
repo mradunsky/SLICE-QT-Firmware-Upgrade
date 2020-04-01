@@ -29,5 +29,8 @@ Repository for the latest released firmware for the SLICE-QTC
   6. Fixes occasional -0.0 display on error readout
   7. Adds automatic shutdown with error summary when device maximum power is exceeded.
   8. Adds **Setpoint Relative** external input mode which allows adjustment of the base temperature setpoint from the main or channel summary screen  
-  9. Adds **INPUTA, INPUTB, OUTPUT1, and OUTPUT2** serial API commands. See [SLICE-QTC API](https://www.vescent.com/manuals/doku.php?id=slice:qt:api) for instructions
+  9. Adds **INPUTA, INPUTB, OUTPUT1, and OUTPUT2** serial API commands. See [SLICE-QTC API](https://www.vescent.com/manuals/doku.php?id=slice:qt:api) for instructions  
+  10. Adds shutdown of all menus and return to main screen when a FAULT condition is detected  
+  11. Fixes Actual Temperature not updating after thermistor coefficients are changed  
+  12. Fixes Rotary Edit freeze at 0.0
   
