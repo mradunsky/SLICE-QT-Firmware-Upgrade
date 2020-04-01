@@ -21,7 +21,9 @@ Repository for the latest released firmware for the SLICE-QTC
    
        Returns:
     
-       __Vescent Photonics, SLICE-`<model>`, `<serial number>`, `<System Controller FW Version>`, `<ICE2 FW Version>`__
+       __Vescent Photonics, SLICE-`<model>`, `<serial number>`, `<System Controller FW Version>`, `<ICE2 FW Version>`__  
+       __NOTE:__ For SLICE QTC models which were originally shipped with Version S1.24_QTC1.38 firmware, contact Vescent for  
+                 assistance in loading the device serial number.
        
   5. Allows exiting a rotary knob edit by touching outside of the active rotary edit box
   6. Fixes occasional -0.0 display on error readout
