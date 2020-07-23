@@ -8,11 +8,17 @@ Repository for the latest released firmware for the SLICE-QTC
 ## Instructions
   __NOTE: Upgrading from Version S1.24_QT1.38 will erase all device settings an parameters. Record them externally prior to updating firmware!__
   
+  __NOTE: Upgrading from Version S1.24_QT1.38 gives the SLICE-QTC the previously unavailable ***IDN?** serial command. See Configuration S1.77_QT1.50 notes for more information.__
+  
   Left click on SLICE_Firmware_Update_Instructions.docx and then click 'Download' to download the instructions for use.
 
   Left click on the upgrade package (SC-x-xx-QT-x-xx.zip) and then click 'Download' to download the firmware package to your hard drive.
   
   The two files in the .zip file need to be placed in the folder described in the instructions. DO NOT RENAME THEM!
+## Configuration S1.177_QT1.52
+ 1. Fixes incorrect output current reading. 
+ 2. Fixes corrupted front panel input voltage signal which could have adverse affects on I/O input functions.
+ 3. Fixes occasional false over power shutdown and display of warning message.
 ## Configuration S1.177_QT1.50
  1. Temperature Setpoint resolution is now 0.1 mK
  2. Fixes measured temperature corruption issue when using a non-zero Steinhart-Hart C coefficient.
