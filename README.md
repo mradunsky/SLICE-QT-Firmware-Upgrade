@@ -6,7 +6,7 @@ Repository for the latest released firmware for the SLICE-QTC
   
   https://github.com/Vescent/SLICE_Firmware_Upgrade_Utility
 ## Instructions
-  __NOTE: Upgrading from Version S1.24_QT1.38 will erase all device settings an parameters. Record them externally prior to updating firmware!__
+  __NOTE: Upgrading from Version S1.24_QT1.38 will erase all device settings and parameters. Record them externally prior to updating firmware!__
   
   __NOTE: Upgrading from Version S1.24_QT1.38 gives the SLICE-QTC the previously unavailable ***IDN?** serial command. See Configuration S1.77_QT1.50 notes for more information.__
   
